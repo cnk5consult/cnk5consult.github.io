@@ -1,3 +1,3 @@
 var $paragraph = document.querySelector('p')
 
-$paragraph.textContent = ''
+$paragraph.textContent = 'Tecnologia e Informação'

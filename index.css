@@ -7,10 +7,10 @@ body {
 	    margin: 0;
 	    display: flex;
 	    justify-content: center;
-		align-items: center;
-		flex-direction: column;
-		background-color: #FF0A0E;
-		color: #FF0A0E;
+	    align-items: center;
+	    flex-direction: column;
+	    background-color: #FF0A0E;
+	    color: #00B331
 	}
 
 h1 {
