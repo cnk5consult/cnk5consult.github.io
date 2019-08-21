@@ -10,12 +10,12 @@ body {
 		align-items: center;
 		flex-direction: column;
 		background-color: #FF0A0E;
-		color: #fff;
+		color: #FF0A0E;
 	}
 
 h1 {
     font-family: 'Prosto One', cursive;
-    font-size: 4rem;
+    font-size: 5rem;
 	}
 
 p {
